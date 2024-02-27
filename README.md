@@ -2,7 +2,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeneedzoya&label=Profile%20views&color=0e75b6&style=flat" alt="lifeneedzoya" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
+- uses: Platane/snk@v3
+  with:
+    
+    github_user_name:LifeNeedZoya
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 <p align="left">
 </p>
 
