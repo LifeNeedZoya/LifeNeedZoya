@@ -1,6 +1,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeneedzoya&label=Profile%20views&color=0e75b6&style=flat" alt="lifeneedzoya" /> </p>
+
 
 
 ![image](https://github.com/LifeNeedZoya/LifeNeedZoya/assets/145326293/b19c7926-c4ac-4915-9b26-7e743df7cddc)
