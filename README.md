@@ -3,14 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeneedzoya&label=Profile%20views&color=0e75b6&style=flat" alt="lifeneedzoya" /> </p>
 
 
-- uses: Platane/snk@v3
-  with:
-    
-    github_user_name:LifeNeedZoya
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+![image](https://github.com/LifeNeedZoya/LifeNeedZoya/assets/145326293/b19c7926-c4ac-4915-9b26-7e743df7cddc)
 
 <p align="left">
 </p>
