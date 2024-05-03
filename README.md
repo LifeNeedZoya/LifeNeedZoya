@@ -1,11 +1,6 @@
 <h3 align="center">A passionate fullstack developer</h3>
 
-
-
-
- <img src="https://github.com/LifeNeedZoya/LifeNeedZoya/assets/145326293/b19c7926-c4ac-4915-9b26-7e743df7cddc" alt="lifeneedzoya" /> 
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
+<img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" /></a>
 
 
 
