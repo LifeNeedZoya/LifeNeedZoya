@@ -7,7 +7,7 @@
 <p align="left">
 </p>
 ![lifeneedZoya's Streak]
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=lifeneedZoya&theme=highcontrast&hide_border=false"
+<img  src="https://github-readme-streak-stats.herokuapp.com/?username=lifeneedZoya&theme=highcontrast&hide_border=false"
        alt="stats" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifeneedZoya&theme=highcontrast&show_icons=true&hide_border=false&layout=compact"
        alt="stats" />
